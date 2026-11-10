@@ -1,6 +1,6 @@
 def main():
     print("Security Log Analyser")
-    print("Version 1.0")
+    print("Version 1.1")
     print("Ready to analyse logs")
 
 
